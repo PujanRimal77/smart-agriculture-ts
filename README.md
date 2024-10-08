@@ -17,7 +17,7 @@ This Smart Agriculture System is a TypeScript-based project designed to enhance 
 - Mobile app development (framework specifics to be added)
 
 ## Setup and Installation
-1. Clone the repository: git clone https://github.com/yourusername/smart-agriculture-ts.git
+1. Clone the repository: git clone https://github.com/PujanRimal77/smart-agriculture-ts.git
 2. 2. Navigate to the project directory:cd smart-agriculture-ts
    3. 3. Install dependencies:npm install
       4. compile typescript:npx tsc
