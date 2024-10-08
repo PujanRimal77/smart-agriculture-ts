@@ -42,4 +42,4 @@ This project is licensed under the MIT License.
 ## Contact
 [Pujan Rimal] - [Pujanrimal1176@gmail.com]
 
-Project Link: https://github.com/yourusername/smart-agriculture-ts
+Project Link: https://github.com/PujanRimal77/smart-agriculture-ts
