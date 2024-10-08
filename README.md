@@ -37,7 +37,8 @@ This Smart Agriculture System is a TypeScript-based project designed to enhance 
 Contributions are welcome. Please fork the repository and submit pull requests for any enhancements.
 
 ## License
-This project is licensed under the MIT License.
+We are currently working on the project, adjusting for better typescript application. 
+Copyright © 2024 [Team Dhobikhola]
 
 ## Contact
 [Pujan Rimal] - [Pujanrimal1176@gmail.com]
